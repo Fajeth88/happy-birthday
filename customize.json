@@ -3,7 +3,7 @@
   "name": "Philipp",
   "greetingText": "Happy Birthday! :)",
   "wishText": "Wishing you a day filled with happiness and a year filled with joy!",
-  "imagePath": "img/phil.png",
+  "imagePath": "img/Phil.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday!",
   "outroText": "Hope you liked it^^",
   "replayText": "Click if you want to watch it again.",
-  "outroSmiley": "Bye."
+  "outroSmiley": ":)"
 }
